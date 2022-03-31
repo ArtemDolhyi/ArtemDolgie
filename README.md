@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtemDolhyi
+- 👋 Hi, I’m @ArtemDolgie
 - 👀 I’m interested in Web-Development 
 - 🌱 I’m currently learning JS Frameworks
 - 💞️ I’m looking to collaborate on Web-Projects
