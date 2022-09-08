@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemDolgie
 - 👀 I’m interested in Web-Development 
-- 🌱 I’m currently learning JS Frameworks
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web-Projects
 - 📫 How to reach me: You can send DM
 
