@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArtemDolgie
-- 👀 I’m interested in Web-Development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web-Projects
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: You can send DM
 
 <!---
